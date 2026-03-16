@@ -17,7 +17,7 @@ dependencies:
   - freetype
   - plotly
   # dragged in static libraries from image magick
-  - imagemagick <=6
+  - imagemagick <7
   - libtiff
   - libpng
   - libjpeg-turbo
